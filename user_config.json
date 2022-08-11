@@ -1,0 +1,16 @@
+{
+    "336911180054659093": {
+        "AllAccess": true
+    },
+    "491134035863666708": {
+        "AllAccess": true
+    },
+    "289545491404947457": {
+        "SupportSystem": true
+    },
+    "default": {
+        "RestartCommand": false,
+        "SupportSystem": false,
+        "MessageCommand": false
+    }
+}
