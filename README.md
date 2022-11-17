@@ -2,8 +2,6 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Player Buys PortalPass->Portal Pass given to Player
+    Portal Pass given to Player->Player can use Portals
 ```
