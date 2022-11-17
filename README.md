@@ -1,5 +1,6 @@
 # testing
 
 
-```sequence {theme="hand"}
+```flow
 Andrew->Hong: HELLO!
+```
